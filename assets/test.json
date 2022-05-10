@@ -1,0 +1,72 @@
+
+{
+    "status": "ok", 
+    "totalResults": 70,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "April 14, 2023 Joint Meeting of the PDAC and the PCNS - U.S. Food and Drug Administration",
+    "description": "The committees will discuss supplemental new drug application (sNDA) 205422 s009, efficacy supplement for REXULTI (brexpiprazole) tablets, submitted by Otsuk...",
+    "url": "https://www.youtube.com/watch?v=ifsdFhLg0Cg",
+    "urlToImage": "https://i.ytimg.com/vi/ifsdFhLg0Cg/maxresdefault.jpg",
+    "publishedAt": "2023-04-14T20:17:26Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Myles Udland",
+    "title": "Stocks cap weekly gains, JPMorgan logs best day since 2020 - Yahoo Finance",
+    "description": "Stocks finished the week with gains as the Dow rose more than 1% for the week while JPMorgan shares rose 7.5% on Friday, the stock's biggest one-day gain...",
+    "url": "https://finance.yahoo.com/news/stocks-cap-weekly-gains-jpmorgan-logs-best-day-since-2020-200347102.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/cfJglj0x7h716oFT2VZBeA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-04/4e920cc0-daba-11ed-bf9d-56fc8a7fd2af",
+    "publishedAt": "2023-04-14T20:03:47Z",
+    "content": "Stocks finished lower on Friday but logged weekly gains across the board while shares of JPMorgan (JPM) rallied more than 7% following a strong quarterly earnings report.\r\nAt the closing bell on Frid… [+5376 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Parija Kavilanz",
+    "title": "David's Bridal laying off over 9,000 workers - CNN",
+    "description": "David's Bridal, one of largest sellers of wedding gowns in the United States, is laying off thousands of workers nationwide, according to a notice filed to the Pennsylvania Department of Labor.",
+    "url": "https://www.cnn.com/2023/04/14/business/davids-bridal-layoffs/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/200221122024-02-davids-bridal-file.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-04-14T19:55:00Z",
+    "content": "Davids Bridal, one of largest sellers of wedding gowns in the United States, is laying off thousands of workers nationwide, according to a notice filed to the Pennsylvania Department of Labor.\r\nThe n… [+2227 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Melissa Repko",
+    "title": "Best Buy lays off hundreds of store employees as shopping trends shift - CNBC",
+    "description": "Best Buy said Friday that it is laying off hundreds of store workers as more of its shoppers buy online and sales of consumer electronics weaken.",
+    "url": "https://www.cnbc.com/2023/04/14/best-buy-lays-off-hundreds-of-store-employees-as-shopping-trends-shift.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107110958-1661807177492-gettyimages-1241579394-widak-logosinc220520_npDW0.jpeg?v=1681501844&w=1920&h=1080",
+    "publishedAt": "2023-04-14T19:50:44Z",
+    "content": "Best Buy said Friday that it is laying off hundreds of store workers across the country as more of its shoppers buy online and sales of consumer electronics weaken.\r\nA spokesperson for the company co… [+2211 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Kristen Rogers",
+    "title": "Tupperware might go out of business. How long is yours safe to use? - CNN",
+    "description": "Since Tupperware might be going out of business soon, you might be wondering how long your stash will be OK to use. Experts weigh in on safety and alternatives.",
+    "url": "https://www.cnn.com/2023/04/14/health/tupperware-safety-tips-plastic-containers-wellness/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230413112447-tupperware-store-shelves-2023.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-04-14T19:43:00Z",
+    "content": "Get inspired by a weekly roundup on living well, made simple. Sign up for CNNs Life, But Better newsletter for information and tools designed to improve your well-being.\r\nSince Tupperware, the iconic… [+5783 chars]"
+    }
+]
+    }
